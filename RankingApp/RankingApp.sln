@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingApp", "RankingApp\RankingApp.csproj", "{B5116718-A58B-47D9-AB1E-4627B6FCA660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedData", "SharedData\SharedData.csproj", "{A2C76F90-EF0D-47B9-811A-1ACC39A7EE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{E1C81F43-89E5-46C4-B87C-D0ECEA496AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5116718-A58B-47D9-AB1E-4627B6FCA660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5116718-A58B-47D9-AB1E-4627B6FCA660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5116718-A58B-47D9-AB1E-4627B6FCA660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5116718-A58B-47D9-AB1E-4627B6FCA660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C76F90-EF0D-47B9-811A-1ACC39A7EE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C76F90-EF0D-47B9-811A-1ACC39A7EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C76F90-EF0D-47B9-811A-1ACC39A7EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C76F90-EF0D-47B9-811A-1ACC39A7EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C81F43-89E5-46C4-B87C-D0ECEA496AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C81F43-89E5-46C4-B87C-D0ECEA496AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C81F43-89E5-46C4-B87C-D0ECEA496AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C81F43-89E5-46C4-B87C-D0ECEA496AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7501DA6C-C107-4719-AAA9-89A0DCBE0BD2}
+	EndGlobalSection
+EndGlobal
